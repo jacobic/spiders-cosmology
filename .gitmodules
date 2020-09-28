@@ -1,0 +1,3 @@
+[submodule "redmapper"]
+	path = redmapper
+	url = https://github.com/jacobic/redmapper.git
